@@ -1,0 +1,6 @@
+*.mmdb
+*.sqlite3
+*.log
+*.txt
+*.tsv
+*.rar
